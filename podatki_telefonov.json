@@ -1,0 +1,5810 @@
+[
+  {
+    "naslov_oglasa": "Iphone 13 pro max",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 330.0,
+    "kraj": "Ruše",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "HONOR 600 Pro 5G 12/512GB - *RABLJEN*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Honor",
+    "kapaciteta_gb": 512,
+    "cena": 555.0,
+    "kraj": "Vojnik",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 12/256GB - *RABLJEN*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 769.0,
+    "kraj": "Vojnik",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "*VROČA CENA*Samsung Galaxy S26  12/256GB - *NOVO* + GRATIS ETUI",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 699.0,
+    "kraj": "Vojnik",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "*VROČA CENA*Samsung Galaxy A57 5G 8/256GB - *NOVO*OBROKI*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 424.0,
+    "kraj": "Vojnik",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "50Mpx pametni telefon 2x SIM 128GB NFC Android 13 IPS LIVE 11 črn",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 128,
+    "cena": 229.99,
+    "kraj": "Novo mesto",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Redmi note 12s  -2kom.",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 90.0,
+    "kraj": "Slovenj Gradec",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Prodam Samsung Galaxy S 25, 256 GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 580.0,
+    "kraj": "Ljubljana Vič Rudnik",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung fold8 ultra  256GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1590.0,
+    "kraj": "Rače",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (256GB) – Desert Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 889.5,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (256GB) – Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 889.5,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) – Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 879.0,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro (256GB) – Blue Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 679.5,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro (256GB) – Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 639.5,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 599.5,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Ultramarine Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 589.3,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (256GB) – Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 699.5,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Pink Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 629.5,
+    "kraj": "Laško",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 16e White 128 GB, NOV, ZAPAKIRAN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 600.0,
+    "kraj": "Trebnje",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Redmi Note 14 pro 5G",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 220.0,
+    "kraj": "Ravne na Koroškem",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Prodam Apple iPhone",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1250.0,
+    "kraj": "Črnomelj",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 13",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 250.0,
+    "kraj": "Ljubljana",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "IPHONE 15 128GB PRODAM",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 390.0,
+    "kraj": "Maribor",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Fold 5 512G 12G 1/2024",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 350.0,
+    "kraj": "Radovljica",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor 9 Lite",
+    "znamka": "Honor",
+    "kapaciteta_gb": null,
+    "cena": 45.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 17",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 800.0,
+    "kraj": "Slovenj Gradec",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 512gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 950.0,
+    "kraj": "Šempeter pri Gorici",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor 600 Pro pametni telefon (NOV)",
+    "znamka": "Honor",
+    "kapaciteta_gb": null,
+    "cena": 684.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor 600 Lite pametni telefon (NOV)",
+    "znamka": "Honor",
+    "kapaciteta_gb": null,
+    "cena": 320.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor 200 Pro pametni telefon (NOV)",
+    "znamka": "Honor",
+    "kapaciteta_gb": null,
+    "cena": 386.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Oppo Find X9 Ultra pametni telefon (NOV)",
+    "znamka": "Oppo",
+    "kapaciteta_gb": null,
+    "cena": 1327.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Vivo X300 FE pametni tečefon (NOV)",
+    "znamka": "Vivo",
+    "kapaciteta_gb": null,
+    "cena": 824.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Realme 16 Pro pametni telefon (NOV)",
+    "znamka": "Realme",
+    "kapaciteta_gb": null,
+    "cena": 243.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Realme 16 Pro Plus pametni tečefpn (NOV)",
+    "znamka": "Realme",
+    "kapaciteta_gb": null,
+    "cena": 309.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Pametni telefon LG K22",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 45.0,
+    "kraj": "Mengeš",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "SAMSUNG G. A16 5G 256GB IZLOŽBENI MODEL",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 149.0,
+    "kraj": "Ivančna Gorica",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "HONOR 200 SMART 5G 256GB IZLOŽBENI MODEL",
+    "znamka": "Honor",
+    "kapaciteta_gb": 256,
+    "cena": 107.0,
+    "kraj": "Ivančna Gorica",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "HONOR MAGIC6 LITE 5G 8/256GB IZLOŽBENI MODEL",
+    "znamka": "Honor",
+    "kapaciteta_gb": 256,
+    "cena": 129.0,
+    "kraj": "Ivančna Gorica",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Nov Samsung Galaxy A14 5G 4/128 GB Možen nakup do 12 obrokov",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 99.0,
+    "kraj": "Ivančna Gorica",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung, Honor, Huawei, Realme",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 30.0,
+    "kraj": "Ivančna Gorica",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi Note 12 4G",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 75.0,
+    "kraj": "Domžale",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 (128GB) – Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 549.8,
+    "kraj": "Laško",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB – Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1556.8,
+    "kraj": "Laško",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB – Sky Blue odprta embalaža",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 919.5,
+    "kraj": "Laško",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 5G Dual SIM 128GB 4GB RAM Črna",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 128,
+    "cena": 207.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 5G Dual SIM 128GB 4GB RAM Oranžna",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 128,
+    "cena": 207.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 5G Dual SIM 128GB 4GB RAM Modra",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 128,
+    "cena": 207.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 4G Dual SIM 128GB 4GB RAM Vijolična",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 128,
+    "cena": 191.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 4G Dual SIM 128GB 4GB RAM Modra",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 128,
+    "cena": 191.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1000.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A36 5G 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 296.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 256GB Jetblack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1386.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 799.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 1TB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1695.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Sage",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 886.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 996.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1129.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 970.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1196.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 1TB Blue Shadow",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 1796.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB Skyblue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1129.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 128GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 613.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 256GB Silver Shadow",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1396.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air 256GB Space Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 856.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Lavender",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 897.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 512GB Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1028.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 878.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 1TB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1598.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 870.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold5 5G 256GB 12GB RAM Cream - brez prask + račun",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 480.0,
+    "kraj": "Maribor",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Prodam Iphone 17 pro max 256Gb silver,Zapakiran!",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1145.0,
+    "kraj": "Turnišče",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 14 Ultra",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 400.0,
+    "kraj": "Logatec",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "XIAOMI REDMI NOTE 13 5G 8+256GB IZLOŽBENI MODEL",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 129.0,
+    "kraj": "Ivančna Gorica",
+    "datum_objave": "05.08.2026"
+  },
+  {
+    "naslov_oglasa": "HONOR 200 5G 12/512GB IZLOŽBENI MODEL",
+    "znamka": "Honor",
+    "kapaciteta_gb": 512,
+    "cena": 149.0,
+    "kraj": "Ivančna Gorica",
+    "datum_objave": "05.08.2026"
+  },
+  {
+    "naslov_oglasa": "HONOR MAGIC5 LITE 5G 8/256GB IZLOŽBENI MODEL",
+    "znamka": "Honor",
+    "kapaciteta_gb": 256,
+    "cena": 99.0,
+    "kraj": "Ivančna Gorica",
+    "datum_objave": "18.07.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 12 pro 128gb KOT NOV",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 300.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 8, 256GB, črn",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 150.0,
+    "kraj": "Sežana",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung galaxy a53 5G",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 120.0,
+    "kraj": "Kranj",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 11 pro green",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 70.0,
+    "kraj": "Ptuj",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 13 Pro, 256 GB",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 180.0,
+    "kraj": "Kranj",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "ZTE Nubia Z60 Ultra - Foto telefon!",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 300.0,
+    "kraj": "Celje",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung FOLD 7 - star dobra dva meseca, brez znakov uporabe - moder",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 950.0,
+    "kraj": "Ljubljana Vič Rudnik",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S8",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 69.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 17 Pro 512Gb Silver - NOV, ZAPAKIRAN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1229.0,
+    "kraj": "Slovenske Konjice",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256Gb (White)",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 829.0,
+    "kraj": "Slovenske Konjice",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 17 Pro Max 512Gb Silver - NOV",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1249.0,
+    "kraj": "Slovenske Konjice",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256Gb (Black) - ZAPAKIRAN",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 899.0,
+    "kraj": "Slovenske Konjice",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 17 Pro Max 256Gb (Silver in Orange) - NOVO",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1179.0,
+    "kraj": "Slovenske Konjice",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512Gb - KOT NOV",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 929.0,
+    "kraj": "Slovenske Konjice",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 17 Pro Max 512Gb (Silver in Blue) - NOVO",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1299.0,
+    "kraj": "Slovenske Konjice",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 14 Pro 256 GB Space Black + MagSafe ovitek + zaščitno steklo",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 360.0,
+    "kraj": "Maribor",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi Note 11s 5G lepo ohranjen + slušalke Bluetooth earbuds",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 60.0,
+    "kraj": "Dobrova",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1000.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 256GB Jetblack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1386.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 799.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 1TB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1695.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A36 5G 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 296.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Sage",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 886.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 996.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 512GB – Navy Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 599.8,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Pink Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 689.5,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A55 5G 128GB – Black Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 199.5,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) - Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 949.5,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 256GB – Navy Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 529.4,
+    "kraj": "Maribor",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi Note 14 8/256GB – Midnight Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 199.5,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – Lavender",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 899.5,
+    "kraj": "Maribor",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 864.64,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A25 6/128GB - *RABLJEN*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 125.0,
+    "kraj": "Vojnik",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Prodam nov original zapakiran Honor 600 Lite 5G 256gb",
+    "znamka": "Honor",
+    "kapaciteta_gb": 256,
+    "cena": null,
+    "kraj": "Brežice",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "S24 ultra 256gb titanium gray",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 256,
+    "cena": 630.0,
+    "kraj": "Gorje",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung galaxy 05",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 69.0,
+    "kraj": "Maribor",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "IPHONE 17 PRO MAX / 256gb / 3 CIKLI",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1200.0,
+    "kraj": "Koper",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "APPLE iPhone 17 PRO 12/256GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1269.0,
+    "kraj": "Vojnik",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 256GB – praktično nov + steklo + orig. polnilec",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 650.0,
+    "kraj": "Maribor",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Trg revolucije 1",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 280.0,
+    "kraj": "Trbovlje",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Ljubljana",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 303.0,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 5G Dual SIM 256GB 4GB RAM Črna",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 233.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra S948 5G Dual Sim 256GB/12GB Pink Gold",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1049.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A35 5G, 128GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 150.0,
+    "kraj": "Logatec",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 13, 128GB, dark blue, 100%",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 250.0,
+    "kraj": "Štore",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 11 64GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 70.0,
+    "kraj": "Komenda",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "SAMSUNG pametni telefon Galaxy A05s 4GB/128GB,",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 100.0,
+    "kraj": "Kranj",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "ONEPLUS 12, 512GB / 16GB ram, ČRNE BARVE",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": 512,
+    "cena": 350.0,
+    "kraj": "Celje",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 13 128 GB Starlight – brezhibno delovanje",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 215.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 762.28,
+    "kraj": "Laško",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 14 Pro Max (128GB) – Gold Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 469.5,
+    "kraj": "Laško",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (256GB) – Desert Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 789.5,
+    "kraj": "Laško",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (256GB) – Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 599.5,
+    "kraj": "Laško",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 5G 8/256GB – Awsome Icyblue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 469.5,
+    "kraj": "Laško",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A36 5G 8/256GB – Awsome White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 259.5,
+    "kraj": "Laško",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16e (512GB) - Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 749.6,
+    "kraj": "Maribor",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Google Pixel 10 Pro XL 512 GB Porcelain – NOV, ZAPAKIRAN",
+    "znamka": "Google",
+    "kapaciteta_gb": 512,
+    "cena": 1150.0,
+    "kraj": "Vitanje",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Fold 6 512GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 650.0,
+    "kraj": "Grosuplje",
+    "datum_objave": "12.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (512GB) – Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 968.59,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "samsung a12",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 60.0,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor Magic7 Pro 5G 12/512 GB",
+    "znamka": "Honor",
+    "kapaciteta_gb": 512,
+    "cena": 620.0,
+    "kraj": "Logatec",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 14 plus 512GB blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 450.0,
+    "kraj": "Ljubljana Šiška",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 14, 128GB, 100% battery health",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 320.0,
+    "kraj": "Štore",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 13 pro, 128GB, 100% battery health",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 320.0,
+    "kraj": "Štore",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 14 pro MAX, 100% battery health, 128GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 430.0,
+    "kraj": "Štore",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi redmi 5A",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 45.0,
+    "kraj": "Celje",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Oneplus Nord 6 pametni telefon (NOV)",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": null,
+    "cena": 386.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 13 Black 128gB kot NOV",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 250.0,
+    "kraj": "Maribor",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Oneplus Nord 5 pametni telefon (NOV)",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": null,
+    "cena": 312.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Oneplus 15 pametni telefon (NOV)",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": null,
+    "cena": 569.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Redmi Note 14 pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 135.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco F7 Ultra pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 486.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco C85 pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 88.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco M8 Pro pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 238.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco M8 pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 181.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Redmi note 15 Pro+ pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 309.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25  FE",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 490.0,
+    "kraj": "Piran",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor 600 Lite 5G 256GB (NOV, ZAPAKIRAN)",
+    "znamka": "Honor",
+    "kapaciteta_gb": 256,
+    "cena": 279.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Google Pixel 9 Pro 128 GB",
+    "znamka": "Google",
+    "kapaciteta_gb": 128,
+    "cena": 550.0,
+    "kraj": "Ptuj",
+    "datum_objave": "09.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung j4 plus 32gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 32,
+    "cena": 69.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung s24 ultra 256gb kot nov",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 600.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung a53 128gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 180.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OUKITEL WP32 robustni - delovni telefon Android 13, 12 GB + 128 GB",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 128,
+    "cena": 190.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A54 128GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 190.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 13 pro max 128gb - 6mesečna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 590.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung s23 ultra 256gb kot nov",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 480.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A03s - 6mesečna garancija",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 95.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OUKITEL G3 robustni pametni telefon 6\" HD+ zaslon",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 200.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 11 64gb nova baterija garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 200.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A8 - 6mesečna garancija",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 115.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 14 pro 128gb - 6mesečna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 690.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 13 pro max 128gb 6-mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 599.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A40 64GB - 6mesečna garancija",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 64,
+    "cena": 100.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung s23 plus 256gb kot nov",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 390.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Oukitel G1 256GB Robustni - delovni telefon 6.52-inch 10600mAh  48MP",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 256,
+    "cena": 210.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung s25 ultra 256gb v garanciji",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 790.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OUKITEL WP28S 4G robustni - delovni telefon 6,52\" zaslon",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 195.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OUKITEL WP28E 4G robustni delovni telefon 6,52\" zaslon, 10.600 mAh",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 189.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OUKITEL G5 4G robustni - delovni telefon",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 205.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A53 128GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 170.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 13 mini 128gb 6 mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 350.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OUKITEL WP53 S 4G robustni - delovni telefon 6,52\" FHD+ zaslon",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 198.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 12 pro 128gb 6 mesecev garancije",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 360.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung z flip 5 mint barva 512 gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 150.0,
+    "kraj": "Celje",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 13, 128GB, ROSE, 86% battery health",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 250.0,
+    "kraj": "Štore",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung S906 S22 Plus 256GB/8GB Dual SIM White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 249.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1000.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 799.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A36 5G 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 296.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 256GB Jetblack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1386.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 1TB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1695.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Sage",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 886.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 996.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1000.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1196.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB Skyblue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1129.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1129.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 1TB Blue Shadow",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 1796.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 128GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 613.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 256GB Silver Shadow",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1396.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 878.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 870.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air 256GB Space Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 856.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 512GB Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1028.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB Lavender",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 897.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 1TB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1598.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1167.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 1TB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1598.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S22 256GB kot nov",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 210.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "SAMSUNG A52S ZELO MALO RABLJEN,KOT NOV Z VSEMI DODATKI",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 150.0,
+    "kraj": "Kozina",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "SAMSUNG GALAXY Z FOLD 6, 512GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 699.0,
+    "kraj": "Koper",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "GOOGLE PIXEL 8",
+    "znamka": "Google",
+    "kapaciteta_gb": null,
+    "cena": 340.0,
+    "kraj": "Koper",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 16 plus",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 500.0,
+    "kraj": "Koper",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 14 pro MAX 128 Gb Odlično ohranjen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 300.0,
+    "kraj": "Muta",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A26 5G",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 180.0,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Poco X5 Pro 5G",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 150.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "LG G6",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 28.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Flip7,512GB,moder,kot nov,garancija,račun,ugodno!",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 749.0,
+    "kraj": "Ljubljana",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 6 Silver 16 GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 16,
+    "cena": 50.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 8 Plus Silver 64 GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 80.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S23 prodam",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 250.0,
+    "kraj": "Kranj",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 + 256GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 375.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung GALAXY Z Flip4,   Xiaomi Redmi 14C,   Huawei P20",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": null,
+    "kraj": "Ljubljana Šiška",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra (512 GB) – rabljen 1 leto + zavarovanje!",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": null,
+    "kraj": "Duplek",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 12GB/1TB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 12,
+    "cena": 1649.9,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 5G 8GB/128GB Dual SIM Awesome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 349.9,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OnePlus Nord CE6 5G Dual SIM 256GB/8GB Blue",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": 256,
+    "cena": 399.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OnePlus Nord CE6 5G Dual SIM 256GB/8GB Pitch Black",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": 256,
+    "cena": 399.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Prodam Samsung galaxy z flip 5",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 397.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor 90 5 G - pametni telefon",
+    "znamka": "Honor",
+    "kapaciteta_gb": null,
+    "cena": 190.0,
+    "kraj": "Nazarje",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Realme 7 - pametni telefon",
+    "znamka": "Realme",
+    "kapaciteta_gb": null,
+    "cena": 70.0,
+    "kraj": "Nazarje",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 16 pro max 256gb 91% bh",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 859.0,
+    "kraj": "Tržič",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 15 pro 128 GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 420.0,
+    "kraj": "Maribor",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB)",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 800.0,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "17.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1332.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1177.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256gb Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1218.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1397.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 1TB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1648.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1209.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1269.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1188.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 1TB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1568.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 888.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1359.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 512GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1028.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 128GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 700.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air 512GB Space Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1186.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1432.5,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1397.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 878.1,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 64GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 427.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 Pro Max 512GB Pacific Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 739.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16E 128GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 571.2,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 128gb White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 759.3,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A56 5G 256GB Graphite",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 373.2,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Icyblue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 492.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 256GB Blue Shadow",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1397.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Flip 4 256GB Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 492.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "HONOR Magic 7 Lite 5G 8/512 GB – Titanium Black",
+    "znamka": "Honor",
+    "kapaciteta_gb": 512,
+    "cena": 299.6,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra 512GB – Titanium Gray Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 739.2,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (128GB) - Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 839.8,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512 GB - Titanium Whitesilver Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 999.8,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256 GB - Titanium Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 979.28,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512 GB - Titanium Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1086.2,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Pocophone F1 | 64 GB |",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 64,
+    "cena": 60.0,
+    "kraj": "Celje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 12 Pro Max 256 GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 210.0,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A16 5G (Odlično ohranjen, kot nov)",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 100.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi redmi note pro 15 4G 256gb TITANIUM",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 220.0,
+    "kraj": "Celje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Servo r18 pro - NOV",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 40.0,
+    "kraj": "Celje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "LG Nexus 5X",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 40.0,
+    "kraj": "Celje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone XR 64GB - NOV",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 100.0,
+    "kraj": "Celje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "CAT S60 - NOV - termovizijska kamera",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 250.0,
+    "kraj": "Celje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB - Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1159.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung a37 6gb 128gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 205.0,
+    "kraj": "Postojna",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Oneplus 12 R",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": null,
+    "cena": 380.0,
+    "kraj": "Hajdina",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "google pixel 9a",
+    "znamka": "Google",
+    "kapaciteta_gb": null,
+    "cena": 349.0,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 4G Dual SIM 256GB 4GB RAM Modra",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 206.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 4G Dual SIM 256GB 4GB RAM Zelena",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 206.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 4G Dual SIM 256GB 4GB RAM Vijolična",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 206.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold8 ULTRA Graphite 256/12 GB NOVO | MOŽNE MENJAVE",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 12,
+    "cena": 1499.99,
+    "kraj": "Domžale",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 13 128gb 6 mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 350.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung s24 256gb v garanciji",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 480.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17T Pro 512GB Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 797.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1000.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 797.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17 Ultra 512GB 16GB Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 1098.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A37 5G 256GB Awesome Charcoal",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 379.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Flip 7 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 897.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Gray",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 447.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A37 5G 256GB Awesome White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 379.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16E 128GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 617.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 512GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1080.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A36 5G 256GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 296.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Bel",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 799.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 947.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 890.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air 256GB Cloud White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 854.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 FE 5G 128GB Jet Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 499.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512GB Titanium Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 990.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 949.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A71 Duos Srebrn",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 143.0,
+    "kraj": "Škocjan",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung G. Z FLIP 3 5G 128GB CREAM F711",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 230.0,
+    "kraj": "Ljubljana",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "XIAOMI 17 ULTRA",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 900.0,
+    "kraj": "Grosuplje",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "HONOR 400 5G 8GB/256GB",
+    "znamka": "Honor",
+    "kapaciteta_gb": 256,
+    "cena": 220.0,
+    "kraj": "Hajdina",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air in iPhone 17 Pro NOV 512GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 660.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Huawei Mate 20 Pro",
+    "znamka": "Huawei",
+    "kapaciteta_gb": null,
+    "cena": 55.0,
+    "kraj": "Ljubljana Šiška",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "PRODAM Apple iPhone 15 Pro 256 GB White Titanium",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 550.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16e (256GB) - Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 699.88,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 880.0,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 599.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A26 5G 8/256GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 239.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB - Silver Aktiviran",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1179.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB – Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 715.0,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256 GB – Titanium Gray Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 789.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 15T 5G 512GB/12GB – Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 499.88,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – Lavender",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 899.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A36 5G 8/256GB – Awsome Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 259.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256 GB – Titanium Black Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 869.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 256GB – Icyblue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 699.4,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16e (128GB) – White Aktiviran",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 499.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold7 5G 256GB - Silvershadow Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1069.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 256GB – BlueBlack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 699.4,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 (256GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 499.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 519.2,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 14 Pro Max (128GB) – Deep Purple Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 549.8,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 (128GB) – Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 659.6,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 14 Pro Max (128GB) – Gold Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 539.0,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A36 5G 8/256GB – Awsome White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 289.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold7 5G 512GB – Jet Black Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1099.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 256GB – Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 699.4,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB – Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1328.28,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB - Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1229.0,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "APPLE iPhone 17 PRO 12/512 GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1395.0,
+    "kraj": "Vojnik",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "IPHONE 17 PRO, ORANGE, 256GB (NOV, ŠE NEUPORABLJEN)",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1100.0,
+    "kraj": "Maribor",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "IPHONE 17 PRO MAX ORANGE 1TB (NOV, TOVARNIŠKO ZAPAKIRAN)",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1550.0,
+    "kraj": "Maribor",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi Note 14 Pro Plus 5G Dual SIM 512GB 12GB RAM",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 250.0,
+    "kraj": "Dobrepolje",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung A16 128GB + zaščitni ovitek",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 100.0,
+    "kraj": "Celje",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Plus + (vecja verzija) NOV nerabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 750.0,
+    "kraj": "Velenje",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 17 pro max 256gb NOV (100% battery health/garancija)",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1149.0,
+    "kraj": "Maribor",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galax S23 ULTRA",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 400.0,
+    "kraj": "Železniki",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "Mobilni telefon Samsung S24 Ultra 5G 1TB rom 16GB ram",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 16,
+    "cena": 169.0,
+    "kraj": "Postojna",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 8 512 GB NOV zapakiran",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1570.0,
+    "kraj": "Vojnik",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "Prodam še zapakiran Samsung Galaxy A27 5G black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 200.0,
+    "kraj": "Maribor",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "OnePlus Nord CE6 5G Dual SIM 256GB 8GB RAM Črna",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": 256,
+    "cena": 370.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "OnePlus Nord CE6 5G Dual SIM 256GB 8GB RAM Modra",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": 256,
+    "cena": 370.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "15.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung A80 128gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 130.0,
+    "kraj": "Postojna",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Oppo Find X9 Ultra 12/512 Global",
+    "znamka": "Oppo",
+    "kapaciteta_gb": null,
+    "cena": 1250.0,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold4 - UGODNO",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 190.0,
+    "kraj": "Celje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "IPHONE 12 PRO 128GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 180.0,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "SAMSUNG S21 / ROZA BARVE / 128 GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 150.0,
+    "kraj": "Koper",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 15 pro (128 GB)",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 530.0,
+    "kraj": "Ptuj",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 512GB Jetblack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1547.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1397.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 11T 8GB/128GB Meteorite Gray",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 128,
+    "cena": 277.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1047.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 1TB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1547.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1047.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1147.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 427.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 512GB 12GB 5G Awesome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 577.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 787.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17T Pro 512GB Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 797.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 797.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1000.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17 Ultra 512GB 16GB Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 1098.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Flip 7 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 897.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A37 5G 256GB Awesome Charcoal",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 379.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A37 5G 256GB Awesome White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 379.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Gray",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 447.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16E 128GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 617.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Bel",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 799.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 512GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1028.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A36 5G 256GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 296.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 947.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 949.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air 256GB Cloud White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 854.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – Mist Blue Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 779.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold7 5G 512GB – Silvershadow",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1598.8,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (128GB) – White Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 719.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – Mist Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 922.4,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 14 Ultra 5G Dual SIM 512GB 16GB RAM – Black Rabljen",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 549.5,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (128GB) – Desert Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 869.3,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (256GB) – Blue Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 659.6,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB – Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1479.79,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 489.5,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB – Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1487.88,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) - Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 737.7,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air (256GB) – Sky blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1148.32,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S23+ 5G 256GB - Lavender Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 299.5,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (128GB) - Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 859.4,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB – Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1249.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A56 5G 8/256GB - Awsome Lightgray",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 369.5,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512 GB – Titanium Black Odprta Embalaža",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1049.3,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 15 5G 8/256GB - Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 119.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Nokia 5.4",
+    "znamka": "Nokia",
+    "kapaciteta_gb": null,
+    "cena": 45.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 16 128gb nov",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 690.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "HONOR 600 PRO",
+    "znamka": "Honor",
+    "kapaciteta_gb": null,
+    "cena": 580.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 1690.0,
+    "kraj": "Kranj",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple Iphone 17 Pro 256 GB,pametni telefon",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 799.99,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "PRODAJA iPHONE 15; 128GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 400.0,
+    "kraj": "Lenart v Slovenskih goricah",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold6 12/512GB - *RABLJEN*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 649.0,
+    "kraj": "Vojnik",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB – Cosmic Orange Odprta Embalaža",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1199.0,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) - Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 949.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) – Desert Titanium RABLJEN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 919.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) – Black Titanium",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1099.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra (S928) 512 GB – Rumena Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 659.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 512GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 999.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi Note 15 Pro + 12/512GB – Mocha Brown",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 429.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 599.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (512GB) – Sage",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 989.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 14 (128GB) – Purple RABLJEN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 349.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB – Silver Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1199.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 439.3,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro (128GB) – Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 549.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor 400 5G 8/512GB – Midnight Black",
+    "znamka": "Honor",
+    "kapaciteta_gb": 512,
+    "cena": 299.5,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 256GB – Icyblue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 699.4,
+    "kraj": "Laško",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Tcl 405 32gb novo",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 32,
+    "cena": 100.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 14 128gb 6 mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 499.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 13 256gb 6 mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 450.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 15 pro 128gb  6-mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 790.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung s22 256gb 6 mesecna garancija",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 250.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung a13 128gb 6 mesecna garancija",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 99.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 12 64gb nova baterija garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 300.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A52s 128GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 160.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung a23 5g 128gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 110.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "OUKITEL WP55 S 4G Robustni - delovni telefon 6.6'' FHD+ 11000mAh 64MP",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 250.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Dobro ohranjen Apple iPhone 12 Pro 256GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 250.0,
+    "kraj": "Ljubljana",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "IPHONE 17 PRO, DEEP BLUE, 256GB (NOV, TOVARNIŠKO ZAPAKIRAN)",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1100.0,
+    "kraj": "Maribor",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Pametni telefon Samsung Galaxy S24, 256Gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 399.99,
+    "kraj": "Kranj",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 14 pro 256gb 6 mesecna garancija + nova baterija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 690.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 14 pro max 256gb deep purple 6 mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 700.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 15 pro max 256gb odlicen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 850.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 15 128gb 6 mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 590.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 14 256gb odlicno ohranjen 6 mesecna garancija",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 499.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 14 128GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 450.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 13 128GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 400.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 12 256GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 350.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 13 Pro 256GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 530.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 14 Pro 256GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 550.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 16 pro 128gb pika na ekranu*",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 599.0,
+    "kraj": "Koper",
+    "datum_objave": "18.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung a5",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 20.0,
+    "kraj": "Postojna",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB – White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1220.9,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256 GB – Titanium Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 899.5,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB – Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1199.0,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) – Desert Titanium Aktiviran",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 919.5,
+    "kraj": "Maribor",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (512GB) – Mist Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 989.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra 512GB – Titanium Gray Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 699.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 13 (128GB) – Pink",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 339.9,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Flip7 5G 256GB- Coral Red Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 649.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) – Desert Titanium RABLJEN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 879.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (256GB) – Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 649.0,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 256GB – Icyblue RABLJEN",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 599.2,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 15C 5G 256GB – Black Rabljen",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 89.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (256GB) – Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 649.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 13 Pro Max 128GB – Silver RABLJEN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 399.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (512GB) – Desert Titanium RABLJEN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 949.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 14 (128GB) – Starlight Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 379.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256 GB – Titanium Black Odprta embalaža",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 879.5,
+    "kraj": "Laško",
+    "datum_objave": "06.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 890.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 FE 5G 128GB Jet Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 499.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512GB Titanium Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 990.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Oneplus 15",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": null,
+    "cena": 600.0,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xperia xa 16gb",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 16,
+    "cena": 35.0,
+    "kraj": "Postojna",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 8 64GB Gold *bh: 100%",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 110.0,
+    "kraj": "Ljubljana Šiška",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy XCover 5 – odlično ohranjen + ovitek + zaščitno steklo",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 99.0,
+    "kraj": "Radovljica",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung S22 ultra",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 250.0,
+    "kraj": "Ruše",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 13 pro max",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 360.0,
+    "kraj": "Trzin",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 10",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 45.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy J7",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 36.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 14 Pro 16/512Gb,pametni telefon",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 299.99,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 16 pro Battery Health  91%",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 620.0,
+    "kraj": "Maribor",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 15C",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 110.0,
+    "kraj": "Straža",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone Xs - 64 GB, NOVA BATERIJA",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 80.0,
+    "kraj": "Trebnje",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 16 256gb ODLIČNO ohranjen (90% battery health)",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 549.0,
+    "kraj": "Maribor",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – White Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 549.5,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – Mist Blue Odprta Embalaža",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 899.5,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S22 + 5G (S901) 256GB – Fantomsko črna Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 199.0,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro (128GB) – White Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 549.0,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB – Deep Blue Odprta Embalaža",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1179.8,
+    "kraj": "Laško",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung xcover 5 64gb",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 64,
+    "cena": 75.0,
+    "kraj": "Postojna",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 12/256GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1025.0,
+    "kraj": "Vojnik",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold8  12/512 GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1845.0,
+    "kraj": "Vojnik",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "APPLE iPhone 17 PRO MAX 12/256GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1275.0,
+    "kraj": "Vojnik",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 8/256 GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 424.0,
+    "kraj": "Vojnik",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Mobitel Redmi Note 15 Pro 5G",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 410.0,
+    "kraj": "Lendava",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung S23 plus",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 280.0,
+    "kraj": "Ruše",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Lg G6 32gb",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 32,
+    "cena": 50.0,
+    "kraj": "Postojna",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Doro liberto 825",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 75.0,
+    "kraj": "Postojna",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Google pixel 9 pro",
+    "znamka": "Google",
+    "kapaciteta_gb": null,
+    "cena": 700.0,
+    "kraj": "Mengeš",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone SE 2022 bel",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": null,
+    "kraj": "Novo mesto",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphon  14/128  črnbz zašit.stekom in ovitek 5% pop. dijake in štud.",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": 245.0,
+    "kraj": "Laško",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "I PHONE 13 PRO MAX 128gb",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 128,
+    "cena": 320.0,
+    "kraj": "Kranj",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Google Pixel 7a",
+    "znamka": "Google",
+    "kapaciteta_gb": null,
+    "cena": 160.0,
+    "kraj": "Hoče",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 16 pro max 512GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 550.0,
+    "kraj": "Nova Gorica",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Xcover 7 6/128 GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 255.0,
+    "kraj": "Vojnik",
+    "datum_objave": "16.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple Iphone 13 Pro Max 128gb kot nov",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 330.0,
+    "kraj": "Ljubljana Šiška",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 Mini 64Gb + Spigen ovitek",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 155.0,
+    "kraj": "Miklavž na Dravskem polju",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 11",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 120.0,
+    "kraj": "Maribor",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 13",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 180.0,
+    "kraj": "Murska Sobota",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S10",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 90.0,
+    "kraj": "Sv. Trojica v Slovenskih goricah",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "GOOGLE PIXEL 10 pro xl 512gb (KOT NOV)",
+    "znamka": "Google",
+    "kapaciteta_gb": 512,
+    "cena": 849.99,
+    "kraj": "Vrhnika",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 12 mini 64GM moder",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 170.0,
+    "kraj": "Domžale",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 390.0,
+    "kraj": "Celje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 14, 256 GB, črn",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 325.0,
+    "kraj": "Celje",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 12/256GB - *RABLJEN*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 749.0,
+    "kraj": "Vojnik",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra 256GB – Titanium Gray Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 549.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Pink Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 619.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – White Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 649.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air (256GB) - Cloud white",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 797.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256 GB - Titanium Gray",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 986.9,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB – Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1349.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold7 5G 512GB – JetBlack RABLJEN",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1099.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S23 Ultra 5G (S918) 256GB – Black Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 419.3,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17 Ultra 16GB RAM 512GB ROM – Black Aktiviran",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 1149.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25+ 256GB – Mint Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 649.5,
+    "kraj": "Laško",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S8",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 69.0,
+    "kraj": "Ljubljana Center",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "SAMSUNG A72 128 GB MALO RABLJEN,KOT NOV BREZ PRASKE Z VSEMI DODATKI",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 160.0,
+    "kraj": "Postojna",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "IPHONE 15 PRO / 256GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 650.0,
+    "kraj": "Koper",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "IPHONE 17 PRO MAX 512 GB / NOVO",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1350.0,
+    "kraj": "Koper",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung A54 5g (odlično ohranjen)",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 190.0,
+    "kraj": "Kranj",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung S21+",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 220.0,
+    "kraj": "Kranj",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S23 Ultra 512GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 410.0,
+    "kraj": "Ljubljana Šiška",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ (črn) 12/256GB nov zapakiran!",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 750.0,
+    "kraj": "Radovljica",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 14 Pro 256GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 52.0,
+    "kraj": "Koper",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 11 Pro 256 GB – Space Gray",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 159.0,
+    "kraj": "Grosuplje",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 256GB",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 450.0,
+    "kraj": "Koper",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 12 128GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 250.0,
+    "kraj": "Koper",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Ultra S26 1tb bel NOV",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 1799.0,
+    "kraj": "Bled",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Mi10T/Mi10/Redmi Note7",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": null,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "21.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 5G 8/256GB – Awsome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 469.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 5G 8/256GB – Awsome Gray",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 469.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB – Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1328.28,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi Note 14 Pro 5G 8/256GB – Midnight Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 249.2,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256 GB – Titanium Black Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 719.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB – Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 897.97,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra (S928) 256GB – Črn Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 649.6,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 13 (128GB) – Midnight Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 269.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor 200 Lite 8/256GB Midnight Black – RABLJEN",
+    "znamka": "Honor",
+    "kapaciteta_gb": 256,
+    "cena": 149.3,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 599.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 15",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": null,
+    "kraj": "Ljubljana",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512 GB – Titanium Silverblue RABLJEN",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 899.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra 512GB – Titanium Gray Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 679.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (256GB) – White Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 799.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB – Deep Blue Odprta embalaža",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1149.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 FE 128GB – Jetblack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 489.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 FE 256GB – Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 569.6,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 684.0,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 512GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 999.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 256GB – Silver Shadow RABLJEN",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 569.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (256GB) – White Titanium RABLJEN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 649.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 569.28,
+    "kraj": "Maribor",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A56 5G 8/256GB – Awsome Graphite Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 289.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra (S928) 256GB – Črn Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 579.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512 GB – Titanium Silverblue RABLJEN",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 799.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 13 Mini (128GB) – Blue Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 259.2,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Edge 256GB – Titanium silver Aktiviran",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 549.0,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro (128GB) – Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 579.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 15T 5G 512GB/12GB – Black Rabljen",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 459.88,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB – Deep Blue Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1059.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A37 5G 6/128GB – Awesome Lavender",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 269.99,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A37 5G 6/128GB – Awsome Graygreen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 269.99,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 5G 8/128GB – Awsome Lilac",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 349.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 5G 8/128GB – Awsome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 484.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 1TB – Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1619.0,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – Lavender Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 799.0,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (256GB) – Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 829.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor Magic 8 Pro 12/512 GB – Sunrise Gold",
+    "znamka": "Honor",
+    "kapaciteta_gb": 512,
+    "cena": 989.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) – Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 849.5,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB – Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1294.0,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Pink Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 599.0,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB – Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1556.8,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (512GB) – White Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 899.0,
+    "kraj": "Laško",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 11 Pro 64Gb",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 100.0,
+    "kraj": "Vrhnika",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung galaxy s26 ultra",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 1100.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 256GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 779.8,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 14 Pro (128GB) – Silver Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 499.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (256GB) – Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 649.0,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB – Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1487.87,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 13",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": null,
+    "kraj": "Celje",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 pro",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 234.0,
+    "kraj": "Kamnik",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "XIAOMI NOTE 14 PRO / 256GB",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 200.0,
+    "kraj": "Koper",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 (128GB) – Ultramarine Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 619.3,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (512GB) – Black Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 689.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 14 Pro (256GB) – Silver Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 469.1,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A37 5G 8/256GB – Awsome Graygreen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 358.58,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra (S928) 256GB – Črn Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 599.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 14 Pro Max (128GB) – Deep Purple Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 389.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco X7 Pro pametni telefon - NOV",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 265.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (512GB) – White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1069.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 949.8,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB – White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 959.9,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB – Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1239.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (1TB) – Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 929.6,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro (128GB) – White Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 799.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB – Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1556.8,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi Note 14 8/256GB – Midnight Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 199.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 1TB – Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1728.28,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB – Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1458.89,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Flip 4 256GB Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 492.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 256GB Blue Shadow",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1397.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 512GB Jetblack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1547.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1398.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 11T 8GB/128GB Meteorite Gray",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 128,
+    "cena": 277.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1047.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 1TB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1547.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1047.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 427.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1147.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 512GB 12GB 5G Awesome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 577.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 787.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17T Pro 512GB Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 797.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 797.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1000.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17 Ultra 512GB 16GB Black",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 1098.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Flip 7 256GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 897.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Gray",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 447.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 512GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1028.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 949.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "samsung galaxy z fold5",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 499.0,
+    "kraj": "Sodražica",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Prodam Iphone 15 128 gb",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 469.0,
+    "kraj": "Cerkno",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 12 pro",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 200.0,
+    "kraj": "Koper",
+    "datum_objave": "19.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1208.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1399.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 1TB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1598.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1380.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1220.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 1TB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1648.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1398.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256gb Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1280.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1280.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 256GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1220.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 1TB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1568.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1390.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 512GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1028.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 888.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 128GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 700.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air 512GB Space Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1186.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 878.1,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1398.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1432.5,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 64GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 427.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 Pro Max 512GB Pacific Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 739.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16E 128GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 571.2,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 128gb White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 759.3,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A56 5G 256GB Graphite",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 373.2,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Icyblue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 492.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "20.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 256GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 888.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 512GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1028.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 128GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 700.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Air 512GB Space Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1186.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 512GB Cosmic Orange",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1432.5,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB Deep Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1397.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 878.1,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 64GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 64,
+    "cena": 427.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16E 128GB Black",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 571.2,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 Pro Max 512GB Pacific Blue",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 739.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 128gb White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 759.3,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Flip 4 256GB Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 492.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A56 5G 256GB Graphite",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 373.2,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Icyblue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 492.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 256GB Blue Shadow",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1397.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 11T 8GB/128GB Meteorite Gray",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 128,
+    "cena": 277.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold 7 512GB Jetblack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1547.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro 1TB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 1547.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1147.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1047.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 512GB Silver",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1397.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB Cobalt Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1047.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 512GB 12GB 5G Awesome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 577.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A57 256GB 5G Awesome Navy",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 427.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB Sky Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 787.0,
+    "kraj": "Ljubljana Bežigrad",
+    "datum_objave": "22.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 512GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 1239.5,
+    "kraj": "Laško",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 (512GB) – Black Aktiviran",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 899.5,
+    "kraj": "Laško",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 Pro Max (256GB) – White Titanium RABLJEN",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 649.5,
+    "kraj": "Laško",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iphone 11",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 120.0,
+    "kraj": "Slovenj Gradec",
+    "datum_objave": "11.08.2026"
+  },
+  {
+    "naslov_oglasa": "prodam iPhone 13 128 GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 180.0,
+    "kraj": "Slovenska Bistrica",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Iphone 14 plus",
+    "znamka": "Apple",
+    "kapaciteta_gb": null,
+    "cena": 270.0,
+    "kraj": "Mozirje",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB – Violet",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 715.0,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB – White",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 715.0,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 256 GB – Titanium Black Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 769.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 FE 128GB - Jetblack Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 449.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512GB – Titanium Black Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 969.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Z Fold7 5G 256GB – JetBlack",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 1398.8,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Pro Max (256GB) – Natural Titanium Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 849.0,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 Ultra (S928) 256 GB – Vijolična Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 599.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512 GB - Titanium Black Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 938.87,
+    "kraj": "Maribor",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 15 (128GB) – Black Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 519.2,
+    "kraj": "Maribor",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26+ 512GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 895.0,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 12 (128GB) – Red",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 189.0,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 256GB – Sky Blue Rabljen",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 749.5,
+    "kraj": "Laško",
+    "datum_objave": "10.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone 13 Pro Max 1TB (1024GB) - KOT NOV",
+    "znamka": "Apple",
+    "kapaciteta_gb": 1024,
+    "cena": 449.0,
+    "kraj": "Maribor",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Pametni telefon SAMSUNG GALAXY S26+ 12/256GB (SM-S947B/DS)",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 860.0,
+    "kraj": "Vrhnika",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "13Mpx pametni telefon 2x SIM 64GB Android 13 FLOW 11 črn",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 64,
+    "cena": 139.99,
+    "kraj": "Novo mesto",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi Redmi 17 4G Dual SIM 256GB 4GB RAM Črna",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 256,
+    "cena": 206.0,
+    "kraj": "Spletna ponudba",
+    "datum_objave": "08.08.2026"
+  },
+  {
+    "naslov_oglasa": "16Mpx pametni telefon 2x SIM 64GB NFC Android 10 DRIVE 9 črn",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 64,
+    "cena": 189.99,
+    "kraj": "Novo mesto",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Pametni telefon OnePlus 15",
+    "znamka": "OnePlus",
+    "kapaciteta_gb": null,
+    "cena": 700.0,
+    "kraj": "Idrija",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Nov Samsung Galaxy A27 5G",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 220.0,
+    "kraj": "Kranj",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Redmi Note 15 Pro pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 212.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Redmi Note 15 pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 145.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco X8 Pro pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 265.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco X8 Pro Max pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 398.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco F8 Ultra pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 634.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Poco F8 Pro pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 411.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17 Ultra pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 1047.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17 pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 783.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17T Pro pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 642.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17T pametni telefon (NOV)",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": null,
+    "cena": 502.0,
+    "kraj": "Brezovica pri Ljubljani",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Potrebujete gotovino? Prodajte nam svoj novi telefon - 041444091",
+    "znamka": "Drugo",
+    "kapaciteta_gb": null,
+    "cena": null,
+    "kraj": "Maribor",
+    "datum_objave": "07.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung galaxy A5 2017",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 50.0,
+    "kraj": "Vrhnika",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Pametni telefon Apple iPhone 14, 128GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 128,
+    "cena": 299.99,
+    "kraj": "Kranj",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S24 8/256GB - *RABLJEN*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 419.0,
+    "kraj": "Vojnik",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "APPLE iPhone 17 PRO 12/512 GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1395.0,
+    "kraj": "Vojnik",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung a25",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 90.0,
+    "kraj": "Renče",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Blackview Fort 1 4GB/128GB Oranžen",
+    "znamka": "Drugo",
+    "kapaciteta_gb": 128,
+    "cena": 110.0,
+    "kraj": "Straža",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy Xcover 7 PRO 6/128 GB - *NOVO*, OBROKI, *BREZ VEZAVE*",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 449.0,
+    "kraj": "Vojnik",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A27 5G (A276) 128GB/6GB Dual SIM Blue",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 269.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Xiaomi 17T 5G Dual SIM 512GB/12GB Blue",
+    "znamka": "Xiaomi",
+    "kapaciteta_gb": 512,
+    "cena": 599.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Plus 512GB Ultramarine",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1029.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A27 5G (A276) 128GB/6GB Dual SIM Pink",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 269.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 16 Plus 512GB White",
+    "znamka": "Apple",
+    "kapaciteta_gb": 512,
+    "cena": 1029.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A27 5G (A276) 128GB/6GB Dual SIM Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 219.99,
+    "kraj": "Ljubljana Moste Polje",
+    "datum_objave": "14.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iphone 13 256GB",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 270.0,
+    "kraj": "Maribor",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S25 Ultra 512 GB - Titanium Whitesilver Rabljeno",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 512,
+    "cena": 799.0,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Apple iPhone 17 Pro Max 256GB - Silver Rabljen",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 1149.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "iPhone Xs Max 256GB Gold *bh: 100%",
+    "znamka": "Apple",
+    "kapaciteta_gb": 256,
+    "cena": 180.0,
+    "kraj": "Ljubljana Šiška",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy S26 Ultra 256GB – Black Odprta Embalaža",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 915.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A27 5G 6/128GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 128,
+    "cena": 259.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Samsung Galaxy A17 5G 256GB – Black",
+    "znamka": "Samsung",
+    "kapaciteta_gb": 256,
+    "cena": 189.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "SAMSUNG GALAXY Z FLIP 5G",
+    "znamka": "Samsung",
+    "kapaciteta_gb": null,
+    "cena": 400.0,
+    "kraj": "Koper",
+    "datum_objave": "13.08.2026"
+  },
+  {
+    "naslov_oglasa": "Honor Magic 8 Pro 12/512 GB – Black Rabljen",
+    "znamka": "Honor",
+    "kapaciteta_gb": 512,
+    "cena": 829.5,
+    "kraj": "Laško",
+    "datum_objave": "13.08.2026"
+  }
+]
