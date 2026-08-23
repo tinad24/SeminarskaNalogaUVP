@@ -69,6 +69,6 @@ Projekt omogoča:
 
 AVTOR
 
-Tina Dujč
+Tina Dujc
 
 
