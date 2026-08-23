@@ -71,6 +71,4 @@ AVTOR
 
 Tina Dujč
 
-LICENCA
 
-Ta projekt je ustvarjen za izobraževalne namene.
